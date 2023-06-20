@@ -1,0 +1,22 @@
+# ec
+<!-- Kvinhdepzai -->
+<title>Yêu Bảo bối</title>
+<script>
+    //Thay phần kịch bản bằng kịch bản của bạn
+    var kichban = [
+        ['Cậu à, tớ có điều muốn nói','Cậu nói đi'],
+        ['Tớ muốn hỏi em là:..','Đừng ngại, cậu cứ nói đi :>']
+    ]
+    //Thay loiToTinh bằng lời tỏ tình của bạn
+    var loiToTinh = 'Tối chơi cờ tiếp hong?'
+    //Thay lời xác nhận bằng lời xác nhận của bạn
+    var xacnhan = 'Ok vậy hẹn nhau tối nhau 10h nhe! Không chơi không đi ngủ! Ahihi đồ ngốk! :>';
+    //Tốc độ in chữ ra
+    var tocDo = 50;
+    //Khi chọn Không thì sẽ thông báo ra:
+    var khiChonKhong = 'Đừng ngoan cố thế chọn nút kia đi!'
+    //Link ảnh chèn vào web
+    var linkImg = 'https://scontent.fsgn8-4.fna.fbcdn.net/v/t1.15752-9/345874394_913861579896797_1645186147415925448_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=Y7DjQnChTHAAX8RiTWC&_nc_ht=scontent.fsgn8-4.fna&oh=03_AdQH1dXQZI5YM-XKzaG7MexF8bFJZ9SUgr5WjQkKcBesvg&oe=64B88811'
+    //Link đến mess hay fb của bạn
+    var linkToMess = 'https://www.facebook.com/khanhvinh.pham.773/'
+</script>
